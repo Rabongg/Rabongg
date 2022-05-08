@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <b>Rarepet Project</b>.
-- 🌱 I’m currently learning <b>Java/Spring Boot</b>.
+<br />
+
+- 🔭 I’m currently working on **Rarepet Project**.
+- 🌱 I’m currently learning **Java/Spring Boot**.
 
 <br />
 
