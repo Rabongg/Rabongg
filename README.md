@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##### Github Stats
 <p>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rabongbong&show_icons=true"></img>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rabong&show_icons=true"></img>
 </p>
 
 <br />
