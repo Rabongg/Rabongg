@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I’m currently working on **Gamenawa Project**.
-- 🌱 I’m currently learning **Java/Spring Boot** & **Vue.js**.
+- 🔭 I’m currently working on **Movie Preview Project**.
+- 🌱 I’m currently learning **Redis** & **Kafka**.
 
 <br />
 
